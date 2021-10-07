@@ -5,7 +5,7 @@ Nazywam się Paweł Chmielowiec. Aktualnie staram się rozwijać swoją wiedzę 
 # Książki:
 - Radosław Smilgin – „Zawód tester”
 - Aleksandra Kunysz – „Kierunek jakość – jak unikać błędów w projekcie”
-- Ben Fort – „SQL  mgnieniu oka”
+- Ben Fort – „SQL w mgnieniu oka”
 	
 # Strony internetowe:
 - nieinformtyk.pl
