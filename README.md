@@ -3,8 +3,8 @@
 Nazywam się Paweł Chmielowiec. Aktualnie staram się rozwijać swoją wiedzę i doświadczenie w zakresie testowania, aby móc rozpocząć pracę w branży IT jako tester oprogramowania. Poniżej znajduje się prezentacja moich doświadczeń i osiągnięć oraz szczegóły dotyczące źródeł zdobytej wiedzy, które są rozwinięciem tego, co znalazło się w moim CV.
 
 # Książki:
-- Radosław Smilgin – „Zawód tester” [moja recenzja]( https://docs.google.com/document/d/e/2PACX-1vSbMxZfJYXAxKm62UjhD-tSIVHTDBDFi4V9wA8NlSya-RzrkxtAPk6b-3034XIW6z4wb5OEO8CtLEO5/pub)
-- Aleksandra Kunysz – „Kierunek jakość – jak unikać błędów w projekcie” [moja recenzja]( https://docs.google.com/document/d/e/2PACX-1vSbMxZfJYXAxKm62UjhD-tSIVHTDBDFi4V9wA8NlSya-RzrkxtAPk6b-3034XIW6z4wb5OEO8CtLEO5/pub)
+- Radosław Smilgin – „Zawód tester” [ => moja recenzja]( https://docs.google.com/document/d/e/2PACX-1vSbMxZfJYXAxKm62UjhD-tSIVHTDBDFi4V9wA8NlSya-RzrkxtAPk6b-3034XIW6z4wb5OEO8CtLEO5/pub)
+- Aleksandra Kunysz – „Kierunek jakość – jak unikać błędów w projekcie” [ => moja recenzja]( https://docs.google.com/document/d/e/2PACX-1vSo35vez4BDS52A_CUV-xD9OYC_avi0K8_TqASjCdoV2TQn3lPa4i0rsu6C3ictvxse-9xdAOQBpc46/pub)
 - Ben Fort – „SQL w mgnieniu oka”
 	
 # Strony internetowe:
