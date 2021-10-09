@@ -15,7 +15,7 @@ My name is Paweł Chmielowiec. At this moment I try to develop testing knowlage 
 
 # My test cases:
   - [Smoke tests - test cases for www.rockserwis.pl ]( https://docs.google.com/spreadsheets/d/1coxJsP8IbJiVwzt43nYskQL2nToK5Mc3mWIUS8ZV4Zo/edit?usp=sharing)
-  - [Registration Form Tests  for https://forum.wszystkookawie.pl](https://docs.google.com/spreadsheets/d/e/2PACX-1vQuiU6VnwOO4geXBmXDvdI_LPS7XZZoS7N9WATAZlBuJ3OvCQm4uXIfCPXoLg9YNSDJZ4BSwXKZ7svP/pubhtml)
+  - [Registration form tests for https://forum.wszystkookawie.pl](https://docs.google.com/spreadsheets/d/e/2PACX-1vQuiU6VnwOO4geXBmXDvdI_LPS7XZZoS7N9WATAZlBuJ3OvCQm4uXIfCPXoLg9YNSDJZ4BSwXKZ7svP/pubhtml)
 
 # My bug reports:
 - [Bug report for nieinformatyk.pl](https://docs.google.com/document/d/1nTFH8TvVrRTMh6yjLdP6kbBypomtn0f1Z2mrS3BhB6Q/edit?usp=sharing)
