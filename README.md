@@ -8,11 +8,10 @@ My name is Paweł Chmielowiec. At this moment I try to develop testing knowlage 
 - Ben Fort – „SQL w mgnieniu oka” - reading/review soon
 	
 # Websites:
+- testerzy.pl
 - nieinformtyk.pl
 - remigiuszbednarczyk.pl
 - miroslawzelent.pl
-- testerzy.pl
-
 
 # My test cases:
   - [Smoke tests - test cases for www.rockserwis.pl ]( https://docs.google.com/spreadsheets/d/1coxJsP8IbJiVwzt43nYskQL2nToK5Mc3mWIUS8ZV4Zo/edit?usp=sharing)
