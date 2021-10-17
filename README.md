@@ -18,6 +18,6 @@ My name is Paweł Chmielowiec. At this moment I try to develop testing knowlage 
   - [Registration form tests for https://forum.wszystkookawie.pl](https://docs.google.com/spreadsheets/d/e/2PACX-1vQuiU6VnwOO4geXBmXDvdI_LPS7XZZoS7N9WATAZlBuJ3OvCQm4uXIfCPXoLg9YNSDJZ4BSwXKZ7svP/pubhtml)
 
 # My bug reports:
-- [Bug report for nieinformatyk.pl](https://docs.google.com/document/d/1nTFH8TvVrRTMh6yjLdP6kbBypomtn0f1Z2mrS3BhB6Q/pub)
+- [Bug report for nieinformatyk.pl](https://docs.google.com/document/d/1nTFH8TvVrRTMh6yjLdP6kbBypomtn0f1Z2mrS3BhB6Q/edit?usp=sharing)
 - [Bug report for filmweb.pl](https://docs.google.com/document/d/e/2PACX-1vQDc9lIo3ZjIC3NpegH7iNHcl0YZDUb0xQo1_SrpZ-x84QQApRvDtOhRRhlWzQGWA/pub)
 - [Bug report for ocenpiwo.pl](https://docs.google.com/document/d/e/2PACX-1vS9FKHXm8HOwy95_Go8NGgtBObT7ZtfNOrmhC-V7ig0uSLzs7b_vgTNHukdD0UwpIdWKmofIIf2vllK/pub)
