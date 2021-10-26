@@ -4,6 +4,7 @@ My name is Paweł Chmielowiec. At this moment I try to develop testing knowlage 
 
 # Training course:
 Coders Lab, Manual Tester, Certificate 
+
 (inc. ISTQB, SQL, SoupUI, Postman, Jira, Testlink, Scrum)
 
 # Books:
