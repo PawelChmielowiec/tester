@@ -14,6 +14,7 @@ Coders Lab, Manual Tester, Certificate
 	
 # Websites:
 - testerzy.pl
+- justgeek.it
 - nieinformtyk.pl
 - remigiuszbednarczyk.pl
 - miroslawzelent.pl
