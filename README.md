@@ -3,7 +3,8 @@
 My name is Paweł Chmielowiec. At this moment I try to develop testing knowlage and technical skills in this area. My purpose is starting work in IT industry as a software tester. Here is repository where I would like to present my training achivements and sources of my gained knowledge. Please treat this place like an extention of my CV.
 
 # Training course:
-Coders Lab, Manual Tester, Certificate (inc. ISTQB, SQL, SoupUI, Postman, Scrum, Jira,Testlink)
+Coders Lab, Manual Tester, Certificate 
+(inc. ISTQB, SQL, SoupUI, Postman, Scrum, Jira,Testlink)
 
 # Books:
 - Radosław Smilgin – „Zawód tester” [ my review]( https://docs.google.com/document/d/e/2PACX-1vSbMxZfJYXAxKm62UjhD-tSIVHTDBDFi4V9wA8NlSya-RzrkxtAPk6b-3034XIW6z4wb5OEO8CtLEO5/pub)
