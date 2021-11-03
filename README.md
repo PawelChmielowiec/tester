@@ -26,4 +26,4 @@ Coders Lab, Manual Tester, Certificate
 # My bug reports:
 - [Bug report for nieinformatyk.pl](https://docs.google.com/document/d/e/2PACX-1vRaB_c3DJ7AfdVE4sitR1Tez0n6aQOc6fxcG1IXsSQhQCh7_PO8ya2j14Rj4bGsJA/pub)
 - [Bug report for filmweb.pl](https://docs.google.com/document/d/e/2PACX-1vQDc9lIo3ZjIC3NpegH7iNHcl0YZDUb0xQo1_SrpZ-x84QQApRvDtOhRRhlWzQGWA/pub)
-- [Bug report for ocenpiwo.pl](https://docs.google.com/document/d/e/2PACX-1vS9FKHXm8HOwy95_Go8NGgtBObT7ZtfNOrmhC-V7ig0uSLzs7b_vgTNHukdD0UwpIdWKmofIIf2vllK/pub)
+- [Bug report for ocenpiwo.pl](https://docs.google.com/document/d/e/2PACX-1vRQsnHrKtMdToJzll1tDSQpfvo7ReHOVQIaDsHx3X9aSVAwy0jXXzQyuIeSl0di-Q/pub)
