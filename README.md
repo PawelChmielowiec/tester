@@ -13,6 +13,7 @@ Coders Lab, Manual Tester, Certificate
 - Ben Fort – „SQL w mgnieniu oka” - reading
 	
 # Websites:
+- wyszkolewas.com.pl
 - testerzy.pl
 - justgeek.it
 - nieinformtyk.pl
