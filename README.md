@@ -25,6 +25,6 @@ Coders Lab, Manual Tester, Certificate
   - [Registration form tests for https://forum.wszystkookawie.pl](https://docs.google.com/spreadsheets/d/e/2PACX-1vQuiU6VnwOO4geXBmXDvdI_LPS7XZZoS7N9WATAZlBuJ3OvCQm4uXIfCPXoLg9YNSDJZ4BSwXKZ7svP/pubhtml)
 
 # My bug reports:
-- [Bug report for nieinformatyk.pl - pdf](https://docs.google.com/document/d/e/2PACX-1vRaB_c3DJ7AfdVE4sitR1Tez0n6aQOc6fxcG1IXsSQhQCh7_PO8ya2j14Rj4bGsJA/pub)    ([Bug report for nieinformatyk.pl - Jira](https://drive.google.com/file/d/1_1ppBxZ_zfKICpm2UEhLa8yDQWtEb9lb/view?usp=sharing)
-- [Bug report 2 - Jira](https://docs.google.com/document/d/e/2PACX-1vQDc9lIo3ZjIC3NpegH7iNHcl0YZDUb0xQo1_SrpZ-x84QQApRvDtOhRRhlWzQGWA/pub)
-- [Bug report for ocenpiwo.pl - pdf](https://docs.google.com/document/d/e/2PACX-1vRQsnHrKtMdToJzll1tDSQpfvo7ReHOVQIaDsHx3X9aSVAwy0jXXzQyuIeSl0di-Q/pub)
+- [Bug report 1 - Jira](https://drive.google.com/file/d/1ywWi9Yt1ZCyBCgY6EQR0Dsj9NaI0DLyc/view?usp=sharing) 
+- [Bug report 12- Jira](https://docs.google.com/document/d/e/2PACX-1vQDc9lIo3ZjIC3NpegH7iNHcl0YZDUb0xQo1_SrpZ-x84QQApRvDtOhRRhlWzQGWA/pub)
+- [Bug report for ocenpiwo.pl - pdf](https://drive.google.com/file/d/196YTVuMUh9rdMpmDdQ33lA2QIn4hUS1M/view?usp=sharing)
