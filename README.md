@@ -26,5 +26,5 @@ Coders Lab, Manual Tester, Certificate
 
 # My bug reports:
 - [Bug report 1 - Jira](https://drive.google.com/file/d/1ywWi9Yt1ZCyBCgY6EQR0Dsj9NaI0DLyc/view?usp=sharing)    
-- [Bug report 2 - Jira]()
+- [Bug report 2 - Jira](https://drive.google.com/file/d/1_1ppBxZ_zfKICpm2UEhLa8yDQWtEb9lb/view?usp=sharing)
 - [Bug report 3 - Jira](https://drive.google.com/file/d/196YTVuMUh9rdMpmDdQ33lA2QIn4hUS1M/view?usp=sharing)
