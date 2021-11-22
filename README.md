@@ -22,7 +22,7 @@ Coders Lab, Manual Tester, Certificate
 
 # My test cases:
   - [Test cases for www.rockserwis.pl ]( https://docs.google.com/spreadsheets/d/e/2PACX-1vQprzFVOpsGn-Oiv9mvud2Yh2epm-vZAanHiP-jN-Jtx_BRDWDxlrl0zDa4OqI_3t4_uD2fi6oDEhgX/pubhtml)
-  - [Registration form tests for https://forum.wszystkookawie.pl](https://docs.google.com/spreadsheets/d/e/2PACX-1vQuiU6VnwOO4geXBmXDvdI_LPS7XZZoS7N9WATAZlBuJ3OvCQm4uXIfCPXoLg9YNSDJZ4BSwXKZ7svP/pubhtml)
+  - [Registration form tests for https://forum.wszystkookawie.pl - Test Reprt in TestLink](https://docs.google.com/document/d/1tqIgr3Tg8CnWn3CmWnr2VLLw1PLFtxm-/edit?usp=sharing&ouid=111272621382515452257&rtpof=true&sd=true)
 
 # My bug reports:
 - Bug report 1 - [Jira](https://drive.google.com/file/d/1ywWi9Yt1ZCyBCgY6EQR0Dsj9NaI0DLyc/view?usp=sharing) [pdf](https://docs.google.com/document/d/1FJbEfi5EmxBRazbNxYEXGq2x0RfBiOK0/edit?usp=sharing&ouid=111272621382515452257&rtpof=true&sd=true)     
