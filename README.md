@@ -10,7 +10,7 @@ Coders Lab, Manual Tester, Certificate
 # Books:
 - Radosław Smilgin – „Zawód tester” [ my review]( https://docs.google.com/document/d/e/2PACX-1vSbMxZfJYXAxKm62UjhD-tSIVHTDBDFi4V9wA8NlSya-RzrkxtAPk6b-3034XIW6z4wb5OEO8CtLEO5/pub)
 - Aleksandra Kunysz – „Kierunek jakość – jak unikać błędów w projekcie” [ my review](https://docs.google.com/document/d/e/2PACX-1vSo35vez4BDS52A_CUV-xD9OYC_avi0K8_TqASjCdoV2TQn3lPa4i0rsu6C3ictvxse-9xdAOQBpc46/pub)
-- Ben Fort – „SQL w mgnieniu oka” - reading
+
 	
 # Websites:
 - wyszkolewas.com.pl
