@@ -30,6 +30,6 @@ Coders Lab, Manual Tester, Certificate
 - Bug report 2 - [Jira](https://drive.google.com/file/d/1_1ppBxZ_zfKICpm2UEhLa8yDQWtEb9lb/view?usp=sharing) [pdf](https://docs.google.com/document/d/1ZtrdHtIcOWgq4HbF9vC7YiHkh3__55gU/edit?usp=sharing&ouid=111272621382515452257&rtpof=true&sd=true)
 - Bug report 3 - [Jira](https://drive.google.com/file/d/1lVk4LaEAj6XZIVCfFhNnJaj3PkOA4Ng5/view?usp=sharing) [pdf](https://docs.google.com/document/d/16VZuW_jFLd35w54QBzy2dUMXMNaHQOdk/edit?usp=sharing&ouid=111272621382515452257&rtpof=true&sd=true)
 
-# API tests:
+# My API tests:
 https://jsonplaceholder.typicode.com
 - [HTTP request methods tests for https://jsonplaceholder.typicode.com/comments]( https://drive.google.com/file/d/1AArCzrI3KYLxCq2y39PeUa4GXHMf7g-e/view?usp=sharing)
