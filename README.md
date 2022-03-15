@@ -26,9 +26,8 @@ Coders Lab, Manual Tester, Certificate
   - [Test report in TestLink - registration form tests for https://forum.wszystkookawie.pl](https://docs.google.com/document/d/1tqIgr3Tg8CnWn3CmWnr2VLLw1PLFtxm-/edit?usp=sharing&ouid=111272621382515452257&rtpof=true&sd=true)
 
 # My bug reports:
-- Bug report 1 - [Jira](https://drive.google.com/file/d/1ywWi9Yt1ZCyBCgY6EQR0Dsj9NaI0DLyc/view?usp=sharing) [pdf](https://docs.google.com/document/d/1FJbEfi5EmxBRazbNxYEXGq2x0RfBiOK0/edit?usp=sharing&ouid=111272621382515452257&rtpof=true&sd=true)     
-- Bug report 2 - [Jira](https://drive.google.com/file/d/1_1ppBxZ_zfKICpm2UEhLa8yDQWtEb9lb/view?usp=sharing) [pdf](https://docs.google.com/document/d/1ZtrdHtIcOWgq4HbF9vC7YiHkh3__55gU/edit?usp=sharing&ouid=111272621382515452257&rtpof=true&sd=true)
-- Bug report 3 - [Jira](https://drive.google.com/file/d/1lVk4LaEAj6XZIVCfFhNnJaj3PkOA4Ng5/view?usp=sharing) [pdf](https://docs.google.com/document/d/16VZuW_jFLd35w54QBzy2dUMXMNaHQOdk/edit?usp=sharing&ouid=111272621382515452257&rtpof=true&sd=true)
+[Bug reports](https://docs.google.com/spreadsheets/d/1pP25litXSI9HZqvUDIhqbziLTyBawHif/edit?usp=sharing&ouid=111272621382515452257&rtpof=true&sd=true)
+Jira scans
 
 # My API tests:
 https://jsonplaceholder.typicode.com
