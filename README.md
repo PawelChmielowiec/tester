@@ -32,4 +32,4 @@ Coders Lab, Manual Tester, Certificate
 
 # My API tests:
 https://jsonplaceholder.typicode.com
-- [HTTP request methods tests for https://jsonplaceholder.typicode.com/comments]( https://drive.google.com/file/d/1AArCzrI3KYLxCq2y39PeUa4GXHMf7g-e/view?usp=sharing)
+- [REST API - HTTP request methods tests for https://jsonplaceholder.typicode.com/comments]( https://drive.google.com/file/d/1AArCzrI3KYLxCq2y39PeUa4GXHMf7g-e/view?usp=sharing)
