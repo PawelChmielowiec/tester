@@ -26,8 +26,8 @@ Coders Lab, Manual Tester, Certificate
   - [Test report in TestLink - registration form tests for https://forum.wszystkookawie.pl](https://docs.google.com/document/d/1tqIgr3Tg8CnWn3CmWnr2VLLw1PLFtxm-/edit?usp=sharing&ouid=111272621382515452257&rtpof=true&sd=true)
 
 # My bug reports:
-[In Excel](https://docs.google.com/spreadsheets/d/1pP25litXSI9HZqvUDIhqbziLTyBawHif/edit?usp=sharing&ouid=111272621382515452257&rtpof=true&sd=true)
-[Jira scans](https://drive.google.com/file/d/1V7vC_Vlrn9xg0pgd-ZCsK89YUJWydiLU/view?usp=sharing)
+- [Reports in Excel file](https://docs.google.com/spreadsheets/d/1pP25litXSI9HZqvUDIhqbziLTyBawHif/edit?usp=sharing&ouid=111272621382515452257&rtpof=true&sd=true)
+- [Jira scans](https://drive.google.com/file/d/1V7vC_Vlrn9xg0pgd-ZCsK89YUJWydiLU/view?usp=sharing)
 
 # My API tests:
 https://jsonplaceholder.typicode.com
