@@ -23,7 +23,7 @@ Coders Lab, Manual Tester, Certificate
 
 # My test cases:
   - [(Excel) Test cases for www.rockserwis.pl ]( https://docs.google.com/spreadsheets/d/e/2PACX-1vQprzFVOpsGn-Oiv9mvud2Yh2epm-vZAanHiP-jN-Jtx_BRDWDxlrl0zDa4OqI_3t4_uD2fi6oDEhgX/pubhtml)
-  - [(TestLink) Test report - registration form tests for https://forum.wszystkookawie.pl](https://docs.google.com/document/d/1PKcbjHl5s_LgmMt9VDtNTceFV24NDktt/edit?usp=sharing&ouid=111272621382515452257&rtpof=true&sd=true)
+  - [(TestLink) Test report - registration form tests for https://forum.wszystkookawie.pl](https://docs.google.com/document/d/16zE0HShGE_GJnsP1w-0onzHPpXwWoNB9/edit?usp=sharing&ouid=111272621382515452257&rtpof=true&sd=true)
 
 # My bug reports:
 - [(Excel) Reports](https://docs.google.com/spreadsheets/d/1pP25litXSI9HZqvUDIhqbziLTyBawHif/edit?usp=sharing&ouid=111272621382515452257&rtpof=true&sd=true)
