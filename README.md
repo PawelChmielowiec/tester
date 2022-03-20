@@ -22,7 +22,7 @@ Coders Lab, Manual Tester, Certificate
 - miroslawzelent.pl
 
 # My test cases:
-  - [(Excel) Test cases for www.rockserwis.pl ]( https://docs.google.com/spreadsheets/d/e/2PACX-1vQprzFVOpsGn-Oiv9mvud2Yh2epm-vZAanHiP-jN-Jtx_BRDWDxlrl0zDa4OqI_3t4_uD2fi6oDEhgX/pubhtml)
+  - [(Excel) Test cases for www.rockserwis.pl ](https://docs.google.com/spreadsheets/d/1510EOhqifJ-SZOBR3c7WogHXGU0xbkEZ/edit?usp=sharing&ouid=111272621382515452257&rtpof=true&sd=true)
   - [(TestLink) Test report - registration form tests for https://forum.wszystkookawie.pl](https://docs.google.com/document/d/1uiFwvpgwhwcmw40J7ROCvAql0PJ5S-1t/edit?usp=sharing&ouid=111272621382515452257&rtpof=true&sd=true)
 
 # My bug reports:
