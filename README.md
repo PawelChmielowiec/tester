@@ -16,7 +16,7 @@ Coders Lab, Manual Tester, Certificate
 - Confluence
 - Scrum
 
-# What Am I learning right now?
+# What Am I Learning Right Now?
 
 - DevTools
 
