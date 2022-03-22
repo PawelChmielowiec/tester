@@ -5,17 +5,20 @@ My name is Paweł Chmielowiec. At this moment I try to develop testing knowlage 
 # Training course:
 Coders Lab, Manual Tester, Certificate 
 
-# M Skills:
+# Skills:
 
-•ISTQB 
-•MySQL
-•Jira 
-•Confluence
-•TestLink
-•SoapUI 
-•Postman
-•Scrum
-•DevTools
+- ISTQB 
+- MySQL
+- Jira 
+- TestLink
+- SoapUI 
+- Postman
+- Confluence
+- Scrum
+
+# What Am I learning right now?
+
+- DevTools
 
 # Books:
 - Radosław Smilgin – „Zawód tester” [ my review]( https://docs.google.com/document/d/e/2PACX-1vSbMxZfJYXAxKm62UjhD-tSIVHTDBDFi4V9wA8NlSya-RzrkxtAPk6b-3034XIW6z4wb5OEO8CtLEO5/pub)
@@ -33,14 +36,14 @@ Coders Lab, Manual Tester, Certificate
 
 # My projects:
 
-# My test cases:
+# Test cases:
   - [(Excel) Test cases for www.rockserwis.pl ](https://docs.google.com/spreadsheets/d/1510EOhqifJ-SZOBR3c7WogHXGU0xbkEZ/edit?usp=sharing&ouid=111272621382515452257&rtpof=true&sd=true)
   - [(TestLink) Test report - registration form tests for https://forum.wszystkookawie.pl](https://docs.google.com/document/d/1uiFwvpgwhwcmw40J7ROCvAql0PJ5S-1t/edit?usp=sharing&ouid=111272621382515452257&rtpof=true&sd=true)
 
-# My bug reports:
+# Bug reports:
 - [(Excel) Reports](https://docs.google.com/spreadsheets/d/1pP25litXSI9HZqvUDIhqbziLTyBawHif/edit?usp=sharing&ouid=111272621382515452257&rtpof=true&sd=true)
 - [Jira scans](https://drive.google.com/file/d/1V7vC_Vlrn9xg0pgd-ZCsK89YUJWydiLU/view?usp=sharing)
 
-# My API tests:
+# API tests:
 https://jsonplaceholder.typicode.com
 - [REST API - HTTP request methods tests for https://jsonplaceholder.typicode.com/comments]( https://drive.google.com/file/d/1AArCzrI3KYLxCq2y39PeUa4GXHMf7g-e/view?usp=sharing)
