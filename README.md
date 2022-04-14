@@ -15,9 +15,6 @@ Coders Lab, Manual Tester, Certificate
 - Postman
 - Confluence
 - Scrum
-
-# What Am I Currently Learning?
-
 - DevTools
 
 # Books:
