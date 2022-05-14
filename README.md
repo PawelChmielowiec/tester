@@ -44,3 +44,6 @@ Coders Lab, Manual Tester, Certificate
 # API tests:
 https://jsonplaceholder.typicode.com
 - [REST API - HTTP request methods tests for https://jsonplaceholder.typicode.com/comments]( https://drive.google.com/file/d/1AArCzrI3KYLxCq2y39PeUa4GXHMf7g-e/view?usp=sharing)
+
+# For companies:
+ - [Test report for bookshop Merlin](https://docs.google.com/document/d/1FjV1GCGIxJ-ig5BxhY4pAzZlBXsYDii6/edit?usp=sharing&ouid=111272621382515452257&rtpof=true&sd=true)
