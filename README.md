@@ -47,3 +47,4 @@ https://jsonplaceholder.typicode.com
 
 # For companies:
  - [Test report for bookshop Merlin.pl](https://docs.google.com/document/d/1za3W7AaPdmceK8Wlkf1vX_Ams96y2krk/edit?usp=sharing&ouid=111272621382515452257&rtpof=true&sd=true)
+ - [Thanks from Merlin.pl(https://drive.google.com/file/d/1mlYTlrLkdrzb-FIawQPiB2hm6tMoERHs/view?usp=sharing)
