@@ -46,4 +46,4 @@ https://jsonplaceholder.typicode.com
 - [REST API - HTTP request methods tests for https://jsonplaceholder.typicode.com/comments]( https://drive.google.com/file/d/1AArCzrI3KYLxCq2y39PeUa4GXHMf7g-e/view?usp=sharing)
 
 # For companies:
- - [Test report for bookshop Merlin](https://docs.google.com/document/d/1za3W7AaPdmceK8Wlkf1vX_Ams96y2krk/edit?usp=sharing&ouid=111272621382515452257&rtpof=true&sd=true)
+ - [Test report for bookshop Merlin.pl](https://docs.google.com/document/d/1za3W7AaPdmceK8Wlkf1vX_Ams96y2krk/edit?usp=sharing&ouid=111272621382515452257&rtpof=true&sd=true)
