@@ -43,7 +43,7 @@ Coders Lab, Manual Tester, Certificate
 
 # API tests:
 https://jsonplaceholder.typicode.com
-- REST API - HTTP request methods tests for [https://jsonplaceholder.typicode.com](https://drive.google.com/file/d/1AArCzrI3KYLxCq2y39PeUa4GXHMf7g-e/view?usp=sharing](https://drive.google.com/file/d/1Md_qciS8Gys_WJPY7JEX8Qpd_r2lvFso/view?usp=sharing)
+- REST API - HTTP request methods tests for [https://jsonplaceholder.typicode.com](https://drive.google.com/file/d/1AArCzrI3KYLxCq2y39PeUa4GXHMf7g-e/view?usp=sharing)
 - 
 - 
 - [https://jsonplaceholder.typicode.com] (https://drive.google.com/file/d/1AArCzrI3KYLxCq2y39PeUa4GXHMf7g-e/view?usp=sharing](https://drive.google.com/file/d/1Md_qciS8Gys_WJPY7JEX8Qpd_r2lvFso/view?usp=sharing)
