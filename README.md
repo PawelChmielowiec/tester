@@ -16,6 +16,8 @@ Coders Lab, Manual Tester, Certificate
 - Confluence
 - Scrum
 - DevTools
+- PicPick
+- ShareX
 
 # Books:
 - Radosław Smilgin – „Zawód tester” [ my review]( https://docs.google.com/document/d/e/2PACX-1vSbMxZfJYXAxKm62UjhD-tSIVHTDBDFi4V9wA8NlSya-RzrkxtAPk6b-3034XIW6z4wb5OEO8CtLEO5/pub)
